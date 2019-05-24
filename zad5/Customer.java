@@ -1,3 +1,9 @@
+/*
+POJ, lab5, zadanie 1
+Adrian Szostak, s19777
+Damian Eggert, s19766
+*/
+
 public class Customer {
 
     private int ID, discount;
